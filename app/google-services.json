@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "906522154546",
+    "firebase_url": "https://checkly-11cb3.firebaseio.com",
+    "project_id": "checkly-11cb3",
+    "storage_bucket": "checkly-11cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906522154546:android:83a017c8a4e652a1",
+        "android_client_info": {
+          "package_name": "com.ptrbrynt.checkly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906522154546-hfr01enipucl48di8jar762ocr832gba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptrbrynt.checkly",
+            "certificate_hash": "ae0f96357b7b9de5f57a8a5deb1bdc109988c983"
+          }
+        },
+        {
+          "client_id": "906522154546-5o9jqvl63ntbiksg0t0jcnsnti5tt4fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvxinlLLLbknLcFlo6nL4DfDliNE8O0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906522154546-5o9jqvl63ntbiksg0t0jcnsnti5tt4fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
